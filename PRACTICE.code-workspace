@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\PYIN PRACTICE\\Demo"
+		},
+		{
+			"path": "..\\JAVA PRACTICE\\Java1"
+		},
+		{
+			"path": "..\\DS PRACTICE\\Practice"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"java",
+			""
+		]
+	}
+}
